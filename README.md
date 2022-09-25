@@ -1,6 +1,6 @@
 # Olá! Me chamo Rodrigo e sou um Designer Gráfico <BR> em transição para o Desenvolvimento Web 👋🏿
 
-<div align="center"><br>
+<div align="center" style="display: inline_block"><br>
   <a href="https://github.com/rodrigolourdes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigolourdes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolourdes&layout=compact&langs_count=7&theme=merko"/>
