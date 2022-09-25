@@ -25,6 +25,6 @@
     <a href="https://www.facebook.com/rodrigo.lourdes.330" target="_blank"><img width="50" src="https://github.com/rodrigolourdes/rodrigolourdes/blob/main/05.png?raw=true" target="_blank"></a> 
     <a href="https://trailblazer.me/id/rodrigolourdes" target="_blank"><img width="50" src="https://github.com/rodrigolourdes/rodrigolourdes/blob/main/07.png?raw=true" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rodrigolourdes/rodrigolourdes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
