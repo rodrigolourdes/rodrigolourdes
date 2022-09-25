@@ -12,7 +12,7 @@
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://uploaddeimagens.com.br/imagens/pLbZn7U">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D2DAQH9xndAGXtVQg/profile-treasury-image-shrink_800_800/0/1664032274357?e=1664712000&v=beta&t=Pn-0_9KGF839Mkjf8_utaaiUfNF-K4n3vxInmVk-4oM">
 </div>
   
   ##
