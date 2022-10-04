@@ -2,8 +2,8 @@
 
 <div align="center"><br>
   <a href="https://github.com/rodrigolourdes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigolourdes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolourdes&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigolourdes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolourdes&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
